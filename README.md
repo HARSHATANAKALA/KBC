@@ -17,5 +17,5 @@ A **fully interactive frontend-only** quiz game built using Frontened that repli
 ## 🚀 Getting Started
 ### 1. Clone the Repository
 ```bash
-git clone https://ThotapalliSriniveshReddye/kbc.git
+git clone https://HARSHATANAKALA/kbc.git
 cd kbc
